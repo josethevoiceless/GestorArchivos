@@ -33,7 +33,7 @@ GestorArchivos gestor = new GestorArchivos();
      - Para renombrar un archivo:
 
        ```java
-       gestor.renombrarArchivo();
+       gestor.renombrarArchivo("NuevoNombre");
        ```
 
      - Para copiar un archivo:
