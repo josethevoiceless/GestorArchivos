@@ -67,3 +67,16 @@ GestorArchivos gestor = new GestorArchivos();
      ```
 
 Asegúrate de que tu proyecto esté configurado para utilizar el JAR de la librería y que todas las dependencias se gestionen adecuadamente.
+
+## Compatibilidad
+
+Esta librería es compatible con Java 8 y versiones posteriores.
+
+## Notas
+
+- La librería utiliza la clase JFileChooser para interactuar con el sistema de archivos y permitir que el usuario seleccione archivos. Asegúrate de manejar las excepciones adecuadamente en tu aplicación para evitar errores inesperados durante la ejecución.
+
+- Ten en cuenta que este código utiliza entrada/salida estándar para interactuar con el usuario a través de la consola. Si estás desarrollando una aplicación con interfaz gráfica, deberás adaptar la interacción del usuario según tus necesidades.
+
+- Si deseas ver la documentación de la librería, puedes descargar el archivo .rar, descomprimirlo y acceder a los archivos HTML que contienen información detallada sobre su uso.
+
