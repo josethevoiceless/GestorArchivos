@@ -11,6 +11,13 @@ Esta librería proporciona una interfaz para el manejo de archivos, incluyendo o
 ```java
 GestorArchivos gestor = new GestorArchivos();
 ```
+3. **Importar la clase**:
+
+   - Asegúrate de importar la clase `GestorArchivos` en tu archivo de código. Esto te permitirá acceder a sus métodos.
+
+     ```java
+     import gestorarchivos.GestorArchivos;
+     ```
 4. **Llamar a los métodos**:
 
    - Utiliza los métodos públicos de la clase `GestorArchivos` para realizar operaciones de manejo de archivos, como crear, renombrar, copiar, mover, leer, escribir y eliminar archivos.
