@@ -1,4 +1,4 @@
-# Librería de Gestión de Archivos
+# Librería de Gestión de Archivos 1.0.0 -beta
 
 Esta librería proporciona una interfaz para el manejo de archivos, incluyendo operaciones como creación, renombramiento, copia, movimiento, lectura, escritura y eliminación de archivos.
 
